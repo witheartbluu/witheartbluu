@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Aprillia 👋
 
-<!--
-**witheartbluu/witheartbluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior data analyst.** I turn operational data (orders, sales, schedules) into dashboards and recommendations people can act on.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🌐 Personal portfolio built with Astro and Tailwind *(in progress)*
+- 📊 Learning: SQL, Python, DuckDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Toolbox
+Git · TypeScript · JavaScript · Flutter/Dart · SQL
+
+## Let's connect
+[LinkedIn](linkedin.com/in/aprillksm/) · [Email](mailto:hi.aprilkusuma@gmail.com)
