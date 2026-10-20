@@ -1,4 +1,4 @@
-# Hi, I'm Aprillia 👋
+# Hi, I'm April 👋
 
 **Junior data analyst.** I turn operational data (orders, sales, schedules) into dashboards and recommendations people can act on.
 
